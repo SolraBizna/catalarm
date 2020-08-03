@@ -1,0 +1,14 @@
+[package]
+name = "catalarm"
+version = "0.1.0"
+authors = ["Solra Bizna <solra@bizna.name>"]
+edition = "2018"
+description = "An extremely simple tool that runs a command any time some data flows through it."
+readme="README.md"
+homepage = "https://github.com/SolraBizna/catalarm/"
+repository = "https://github.com/SolraBizna/catalarm/"
+license = "Zlib"
+keywords = []
+categories = ["command-line-utilities"]
+
+[dependencies]
